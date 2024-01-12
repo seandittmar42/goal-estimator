@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      AWS Amplify Hosting2
+      AWS Amplify Hosting2a
     </div>
   );
 }
